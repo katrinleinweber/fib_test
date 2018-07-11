@@ -19,10 +19,6 @@ test_fibo_10()
 test_fibo_5()
 test_fibo_0()
 
-def test_fibo_type():
-    result = fibo.fib2(05)
-    expected_result = []
-    assert type(result) == type
 
 """
 result_10 = fibo.fib2(10)
